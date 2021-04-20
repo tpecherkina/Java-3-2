@@ -21,7 +21,7 @@
       <change afterPath="$PROJECT_DIR$/../../Java/Java examples/javaqa-code" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java/Java22" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java/Java22Bonus" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java261Maven/src/main/java/ru/netology/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaJacoco/Java261Maven/src/main/java/ru/netology/Radio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1.2. Site For Import" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/1.2. Site For Import" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1.3 Github Homework/git-homeworks-neuro" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/1.3 Github Homework/git-homeworks-neuro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2.3 Neuro broken/git-homeworks-neuro-broken" beforeDir="false" />
@@ -29,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/../../68747470733a2f2f692e696d6775722e636f6d2f48635370596b542e706e67.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/68747470733a2f2f692e696d6775722e636f6d2f48635370596b542e706e67.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Git.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/Git.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Github 1.1/neurostartup" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/Github 1.1/neurostartup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Microsoft Edge.lnk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../NP/3.1. Repo for Push" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/NP/3.1. Repo for Push" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../New Bitmap Image.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../GIT/New Bitmap Image.bmp" afterDir="false" />
@@ -62,7 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rPjLbUKV2IfJ5bewhdDVi9bgPc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -75,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java 3-2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,5 +99,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
