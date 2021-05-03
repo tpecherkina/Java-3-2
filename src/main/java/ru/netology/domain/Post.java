@@ -7,6 +7,7 @@ public class Post {
     private UserID userID;
     private Comments Comments;
     private Likes likes;
+    private int postId;
 
     public String getPostName() {
         return postName;
